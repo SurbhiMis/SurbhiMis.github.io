@@ -1,0 +1,13 @@
+.main-img{
+    display: none;
+}
+
+.icon{
+    display: flex;
+    justify-self: flex-end;
+    color: white;
+}
+
+.menu{
+    display: none;
+}
