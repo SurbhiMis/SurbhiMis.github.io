@@ -44,11 +44,23 @@
 .content-part{
     padding: 10px;
     text-align: center;
-    
+
 }
 
 .picture{
     display: none;
+}
+
+
+.fttr1{
+    
+    padding-left: 0px;
+}
+
+.text > a >i{
+    font-size:15px;
+    width: calc(100% / 5 );
+    
 }
 /* .head-text{
     font-size: 1em;
