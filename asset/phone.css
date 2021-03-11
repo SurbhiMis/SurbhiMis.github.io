@@ -1,3 +1,4 @@
+/* -------header------ */
 .menu-item{
     display: none;
 }
@@ -12,7 +13,7 @@
 .header-text{
     padding:20px;
 }
-
+/* ---------footer css-------- */
 .footer{
     display: flex;
     flex-flow: column wrap;
@@ -21,3 +22,16 @@
 .part1{
     display: none;
 }
+
+/* -------Contact ------ */
+.holder{
+    width: 100%;
+    
+}
+/* .head-text{
+    font-size: 1em;
+}
+
+.content-heading{
+    font-size: 1em;
+} */
