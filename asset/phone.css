@@ -13,6 +13,11 @@
 .header-text{
     padding:20px;
 }
+.header-text-a{
+   
+    font-size: 20px;
+    
+}
 
 /* ---------footer css-------- */
 .footer{
@@ -38,6 +43,7 @@
 }
 .content-part{
     padding: 10px;
+    text-align: center;
 }
 
 .picture{
