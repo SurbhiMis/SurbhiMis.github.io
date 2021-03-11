@@ -1,0 +1,23 @@
+.menu-item{
+    display: none;
+}
+
+.burger{
+    display: flex;
+    text-align: center;
+    font-size: 20px;
+   width: 10%;
+}
+
+.header-text{
+    padding:20px;
+}
+
+.footer{
+    display: flex;
+    flex-flow: column wrap;
+    
+}
+.part1{
+    display: none;
+}

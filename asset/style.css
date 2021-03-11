@@ -52,6 +52,10 @@ body{
    
 }
 
+.burger{
+    display: none;
+}
+
 .menu-item-div{
     flex:1;
     width:calc(100% / 4);
