@@ -27,8 +27,17 @@
 .holder{
     width: 90%;
 }
+.head-text{
+    
+    width: 100%;
+    
+}
 .content-part{
     padding: 30px;
+}
+.picture{
+    width: 50%;
+    height: auto;
 }
 /* .head-text{
     font-size: 1em;
