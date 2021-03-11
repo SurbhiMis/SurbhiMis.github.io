@@ -24,6 +24,9 @@
 }
 
 /* -------Contact ------ */
+.body-section{
+    width: 100%;
+}
 .holder{
     width: 90%;
 }
