@@ -29,6 +29,10 @@ body{
     text-transform: uppercase;
 }
 
+#phone-navbar{
+    display: none;
+}
+
 .header-text{
     width: 100%;
     padding-left: 50px;
