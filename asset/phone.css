@@ -70,6 +70,17 @@
     align-items: center;
     z-index: 2;
 }
+
+
+/* ------calculator css ---- */
+.card{
+    width: 90%;
+}
+
+.cardView{
+    width: 90%;
+}
+
 /* .head-text{
     font-size: 1em;
 }
